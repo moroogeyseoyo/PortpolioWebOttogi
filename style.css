@@ -1,10 +1,12 @@
     /*구글-폰트 시작*/
+    
     .noto-sans-kr {
     font-family: "Noto Sans KR", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    }
+}
+
     /*구글-폰트 끝*/
     /*구글-아이콘 시작*/
     .material-symbols-outlined {
@@ -469,17 +471,7 @@
         opacity: 1;
         display: block;
     }
-
-    .tab:nth-child(2) {}
-
-    .tab:nth-child(3) {}
-
-    .tab:nth-child(4) {}
-
-    .tab:nth-child(5) {}
-
-    .tab:nth-child(6) {}
-
+  
     .button_area > ul > li:first-child {
         border-bottom: 2px solid black;
         font-weight: 600;
